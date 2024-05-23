@@ -1,8 +1,8 @@
 # Simulator
 **An animation that shows an oil-stained area with bacteria that clean it up.**
 
-An oil-stained area represented by black pixels scaterrred within a rectangle.
-Bacteria of two kinds represented by colored squares , move among the oil particles and "eat" the particle on meeting it.
+An oil-stained area represented by black pixels scattered within a rectangle.
+Bacteria of two kinds represented by colored squares move among the oil particles and "eat" the particle on meeting it.
 
 "Hunter" - bacteria that can sense the particles and move directly towards them. (Red squares)
 "Runner" - bacteria that can't sense but moves on randomal directions and eat the particles when it meets them randomally.
