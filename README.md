@@ -5,13 +5,13 @@ An oil-stained area represented by black pixels scattered within a rectangle.
 Bacteria of two kinds represented by colored squares move among the oil particles and "eat" the particle on meeting it.
 
 "Hunter" - bacteria that can sense the particles and move directly towards them. (Red squares)
-"Runner" - bacteria that can't sense but moves on randomal directions and eat the particles when it meets them randomally.
+"Runner" - bacteria that can't sense but moves on randomal directions and eat the particles when it meets them randomally. (Blue squares)
 
 For each particle eaten, the baterium get energy and for each movement it losts energy.
-When a bacterium get enough level of energy it would reproduce itself by dividing into two. Ech new bacterium gets half of the energy level.
-On each movement the bacterium losts some energy.  When the level get to be 0 the bacterium is died.
+When a bacterium gets enough level of energy it would reproduce itself by dividing into two. Ech new bacterium gets half of the energy level.
+On each movement the bacterium losts some energy.  When the level gets to be 0 the bacterium is died.
 
-We can change the properties of bacteria in order to see the effect on the cleanning procces.  We can as well get basic statistics
+We can change the properties of bacteria in order to see the effect on the cleanning process.  We can as well get basic statistics
 about the numbers of the bacteria , reproductions , deaths, and the particles.
 
 **Technical Information**
@@ -29,7 +29,7 @@ In order to run it on Windows 10 (maybe 11 too), do as follows :
 
 *Download the repository files:*
 Push the green "Code" button.
-Go to your Downloads in the Files Manager.
+Go to your Downloads in the Files Explorer.
 Right click on "Simulator-main".
 Select "Extract all...".
 Choose a place into which to extract the files and press Extract button.
@@ -39,7 +39,7 @@ In order to run the Project.exe file :
 Go to https://github.com/otya128/winevdm/releases
 Download otvdm-v0.9.0.zip
 Extract it the same way as "Simulator-main".
-In the Files Manager open otvdm-v0.9.0
+In the Files Explorer, open otvdm-v0.9.0
 Open otvdmw (with w) file.
 Press Ok (or Activate).
 In the File Explorer window browse to the directory into which you placed the Simulator files.
