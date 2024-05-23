@@ -39,9 +39,13 @@ Choose a place into which to extract the files and press Extract button.
 *Download* **otvdm-v0.9.0** 
 
 In order to run the Project.exe file :
+
 Go to https://github.com/otya128/winevdm/releases
+
 Download otvdm-v0.9.0.zip
+
 Extract it the same way as "Simulator-main".
+
 In the Files Explorer, open otvdm-v0.9.0
 Open otvdmw (with w) file.
 Press Ok (or Activate).
