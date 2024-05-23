@@ -15,6 +15,7 @@ We can change the properties of bacteria in order to see the effect on the clean
 about the numbers of the bacteria , reproductions , deaths, and the particles.
 
 **Technical Information**
+
 This is a windows applipcation which I wrote as a graduation work for my Software Practical-Engineer degree.
 It is written in **C++** with the directory of **OWL-Borland**.
 The Bacteria is represented by a linked list with an iterator to treat each item using OOP methodica.
