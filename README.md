@@ -24,6 +24,7 @@ https://www.linkedin.com/in/yaakov-whise-1172322b/overlay/1635467058279/single-m
 profileId=ACoAAAZDSSMBhzta9PrFNqktON_L4EloFiV_wQM
 
 **Install and Run**
+
 This is an old application which runs only on 32-bit Windows.
 In order to run it on Windows 10 (maybe 11 too), do as follows :
 
@@ -35,6 +36,7 @@ Select "Extract all...".
 Choose a place into which to extract the files and press Extract button.
 
 *Download* **otvdm-v0.9.0** 
+
 In order to run the Project.exe file :
 Go to https://github.com/otya128/winevdm/releases
 Download otvdm-v0.9.0.zip
