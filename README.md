@@ -30,7 +30,7 @@ This is an old application which runs only on 32-bit Windows.
 In order to run it on Windows 10 (maybe 11 too), do as follows :
 
 *Download the repository files:*
-Push the green "Code" button.
+Push the green **"Code"** button.
 Go to your Downloads in the Files Explorer.
 Right click on "Simulator-main".
 Select "Extract all...".
