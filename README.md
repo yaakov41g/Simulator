@@ -27,13 +27,19 @@ profileId=ACoAAAZDSSMBhzta9PrFNqktON_L4EloFiV_wQM
 **Install and Run**
 
 This is an old application which runs only on 32-bit Windows.
+
 In order to run it on Windows 10 (maybe 11 too), do as follows :
 
 *Download the repository files:*
+
 Push the green **"Code"** button.
+
 Go to your Downloads in the Files Explorer.
+
 Right click on "Simulator-main".
+
 Select "Extract all...".
+
 Choose a place into which to extract the files and press Extract button.
 
 *Download* **otvdm-v0.9.0** 
@@ -47,11 +53,18 @@ Download otvdm-v0.9.0.zip
 Extract it the same way as "Simulator-main".
 
 In the Files Explorer, open otvdm-v0.9.0
+
 Open otvdmw (with w) file.
+
 Press Ok (or Activate).
+
 In the File Explorer window browse to the directory into which you placed the Simulator files.
+
 Select the executive file PROJECT(.EXE).
+
 Press Open button.
+
 Wait 10 seconds to the openning of Simulator.
+
 In https://www.linkedin.com/feed/update/urn:li:activity:7198410635498442754/ You can see a video for how to use (in Hebrew but the 
 video is easy to understand).
